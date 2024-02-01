@@ -1,2 +1,3 @@
 # Panda3D
-Panda3D Explorations https://www.panda3d.org
+🐼 Panda3D Explorations<br>
+https://www.panda3d.org
